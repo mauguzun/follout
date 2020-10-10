@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Card>
+    <Score>11</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\11\row-1-col-10.jpg</FileName>
+    <Lines>
+      <string>СИЛОВАЯ</string>
+      <string>ОДЕЖДА</string>
+      <string>Пока броня на вас, считайте,</string>
+      <string>›что у вас есть жетон @ .</string>
+      <string> </string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>11</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\11\row-1-col-3.jpg</FileName>
+    <Lines>
+      <string>Перед боем пройдите</string>
+      <string>испытание: “3. Если провалили,</string>
+      <string>не можете перебрасывать</string>
+      <string>кубики.</string>
+      <string>Когда вы убиваете врага, вы</string>
+      <string>автоматически убиваете еще</string>
+      <string>одного врага, который равен</string>
+      <string>или ниже по уровню убитому и</string>
+      <string>находится не дальше одной</string>
+      <string>секции от него. '</string>
+      <string> </string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>11</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\11\row-1-col-5.jpg</FileName>
+    <Lines>
+      <string>минимн</string>
+      <string>ОРУЖИЕ</string>
+      <string>      </string>
+      <string> </string>
+      <string>Если во время боя у вас</string>
+      <string>выпало 2 очка урона по врагу,</string>
+      <string>можете потратить 2 крышки,</string>
+      <string>чтобы перевернуть третий</string>
+      <string>кубик на нужный результат.</string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>11</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\11\row-1-col-9.jpg</FileName>
+    <Lines>
+      <string>СУПЕРМОЛОТ</string>
+      <string>ОРУЖИЕ</string>
+      <string>Во время боя можете</string>
+      <string>пожертвовать двумя</string>
+      <string>перебрасываниями</string>
+      <string>кубиков, чтобы добавить 1</string>
+      <string>дополнительный урон по</string>
+      <string>врагу.</string>
+      <string> </string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>11</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\11\row-2-col-1.jpg</FileName>
+    <Lines>
+      <string>СИЛОВАЯ БР НЯ</string>
+      <string>ОДЕЖДА</string>
+      <string>Пока броня на вас, считайте,</string>
+      <string>что у вас есть жетон &amp;.</string>
+      <string> </string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\2\row-1-col-4.jpg</FileName>
+    <Lines>
+      <string>РУКОВОДСТВО ПО</string>
+      <string>ВЫЖИВАНИЮ В ПУСТОШАХ</string>
+      <string>Можете израсходовать во время</string>
+      <string>испытания или боя, чтобы</string>
+      <string>перебросить кубики столько</string>
+      <string>раз, сколько «вкладов в РБП»</string>
+      <string>находится в игре. Затем каждый</string>
+      <string>игрок выбирает: получить 2</string>
+      <string>крышки или 1 очко опыта за</string>
+      <string>каждый «вклад в РБП», который</string>
+      <string>у него есть. После этого отдайте</string>
+      <string>эту карточку игроку справа.</string>
+      <string> </string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>5</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\5\row-1-col-6.jpg</FileName>
+    <Lines>
+      <string>ПИП-БОЙ "</string>
+      <string>ПИП-БОЙ</string>
+      <string>В любой момент можете</string>
+      <string>посмотреть любую закрытую'</string>
+      <string>плитку локации или жетон</string>
+      <string>любого неактивного врага.</string>
+      <string> </string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>8</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\8\row-1-col-1 (1).jpg</FileName>
+    <Lines>
+      <string>БЛАСТЕР ЧУЖИХ</string>
+      <string>ОРУЖИЕ</string>
+      <string>Если результат …" наносит</string>
+      <string>урон противнику во время</string>
+      <string>боя, то он же наносит 1</string>
+      <string>дополнительный урон.</string>
+      <string> </string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>8</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\8\row-1-col-7.jpg</FileName>
+    <Lines>
+      <string>' шиш-КЕЁАЁ ` ' "</string>
+      <string>ОРУЖИЕ</string>
+      <string>Во время боя результаты -‚Ё</string>
+      <string>иж: наносят урон по врагу.</string>
+      <string> </string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\none\row-1-col-2.jpg</FileName>
+    <Lines>
+      <string>Можете израсходовать перед</string>
+      <string>боем, чтобы игнорировать</string>
+      <string>все способности врага.</string>
+      <string>Если у вас есть любой</string>
+      <string>медпрепарат, напарник</string>
+      <string>не уходит, когда карточка</string>
+      <string>восстанавливается.</string>
+      <string> </string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\unique\none\row-1-col-8.jpg</FileName>
+    <Lines>
+      <string>     </string>
+      <string>  </string>
+      <string>  </string>
+      <string>   </string>
+      <string>      </string>
+      <string>Можно израсходовать во</string>
+      <string>время боя, чтобы добавить</string>
+      <string>1 очко урона по врагу.</string>
+      <string>Если у кого-то из игроков</string>
+      <string>меньше карточек Влияния,</string>
+      <string>чем у вас, отдайте ему</string>
+      <string>‚напарника, когда карточка</string>
+      <string>восстанавливается.</string>
+      <string>1</string>
+      <string>&amp;</string>
+    </Lines>
+    <Class>unique</Class>
+  </Card>
+</ArrayOfCard>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Card>
+    <Score>10</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\10\row-1-col-10.jpg</FileName>
+    <Lines>
+      <string>СНАЙПЕРСКАЯ ВИНТОВКА</string>
+      <string>ОРУЖИЕ</string>
+      <string>Во время боя каждый</string>
+      <string>результаты:“ наносит урон по</string>
+      <string>врагу. `</string>
+      <string>Когда вы выполняете</string>
+      <string>действие «Сражение»,</string>
+      <string>нельзя выбрать для боя</string>
+      <string>‚врага, находящегося в вашей</string>
+      <string>секции.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>10</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\10\row-1-col-3.jpg</FileName>
+    <Lines>
+      <string>BOEVAJA BRONJA</string>
+      <string>ОДЕЖДА</string>
+      <string>Во время боя можете сбросить ‘</string>
+      <string>свойство «Отдохнувший»,</string>
+      <string>чтобы заменить 1 переброс</string>
+      <string>кубиков на 1 очко урона по</string>
+      <string>врагу.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>12</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\12\row-1-col-7.jpg</FileName>
+    <Lines>
+      <string>ОФИЦИАЛЬНЫЙ КОСТЮМ</string>
+      <string>ОДЕЖДА</string>
+      <string>Дает дополнительное очко</string>
+      <string>во время испытания,</string>
+      <string>требующего ..</string>
+      <string>Позволяет игнорировать все</string>
+      <string>требования напарника.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>12</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\12\row-1-col-8.jpg</FileName>
+    <Lines>
+      <string>ГЭК</string>
+      <string>помощь</string>
+      <string>Во время своего хода</string>
+      <string>можете удалить из игры</string>
+      <string>(не сбросить) эту</string>
+      <string>карточку, чтобы вытянуть</string>
+      <string>одну карточку Влияния.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\4\row-1-col-1.jpg</FileName>
+    <Lines>
+      <string>АДДИКТОЛ</string>
+      <string>МЕДПРЕПАРАТ</string>
+      <string>сбросьте эту карточку, чтобы</string>
+      <string>снять свойство «Зависимый».</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\4\row-3-col-1.jpg</FileName>
+    <Lines>
+      <string>сбросьте во время своего</string>
+      <string>хода, чтобы снять 4 очка</string>
+      <string>радиации.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\4\row-3-col-2.jpg</FileName>
+    <Lines>
+      <string>помощь</string>
+      <string>сбросьте во время своего</string>
+      <string>хода, чтобы снять 4 очка</string>
+      <string>радиации.</string>
+      <string> </string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\4\row-3-col-3.jpg</FileName>
+    <Lines>
+      <string>МЕДПРЕПАРАТ</string>
+      <string>испытания или боя, чтобы</string>
+      <string>изменить значение одного</string>
+      <string>кубика на любое.</string>
+      <string>Затем пройдите испытание:в 3.</string>
+      <string>Если проваливаете, получаете</string>
+      <string>свойство «зависимый».</string>
+      <string>Пока у вас зависимость, нельзя</string>
+      <string>скинуть зту карточку.</string>
+      <string>Чтобы восстановить карточку,</string>
+      <string>заплатите 2 крышки.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\4\row-3-col-4.jpg</FileName>
+    <Lines>
+      <string>испытания или боя, чтобы</string>
+      <string>изменить значение одного</string>
+      <string>кубика на любое.</string>
+      <string>Затем пройдите испытание: В 3.</string>
+      <string>Если проваливаете, получаете</string>
+      <string>свойство «зависимый».</string>
+      <string>Пока у вас зависимость, нельзя</string>
+      <string>скинуть эту карточку.</string>
+      <string>Чтобы восстановить карточку,</string>
+      <string>заплатите 2 крышки.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\4\row-3-col-5.jpg</FileName>
+    <Lines>
+      <string>испытания или боя, чтобы</string>
+      <string>изменить значение одного</string>
+      <string>кубика на любое.</string>
+      <string>Затем пройдите испытание: @ 3.</string>
+      <string>Если проваливаете, получаете</string>
+      <string>свойство «зависимый».</string>
+      <string>Пока у вас зависимость, нельзя</string>
+      <string>скинуть эту карточку.</string>
+      <string>Чтобы восстановить карточку,</string>
+      <string>заплатите 2 крышки.</string>
+      <string> </string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>5</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\5\row-2-col-10.jpg</FileName>
+    <Lines>
+      <string>стимулятов</string>
+      <string>помощь</string>
+      <string>сбросьте во время своего</string>
+      <string>хода, чтобы восстановить</string>
+      <string>все очки здоровья.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>5</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\5\row-2-col-8.jpg</FileName>
+    <Lines>
+      <string>СТИМУЛЙТОР</string>
+      <string>помощь</string>
+      <string>сбросьте во время своего</string>
+      <string>хода, чтобы восстановить</string>
+      <string>все очки здоровья.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>5</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\5\row-2-col-9.jpg</FileName>
+    <Lines>
+      <string>сбросьте во время своего</string>
+      <string>хода, чтобы восстановить</string>
+      <string>все очки здоровья.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>6</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\6\row-1-col-6.jpg</FileName>
+    <Lines>
+      <string>ДЭЕТДОПОЛНИТЕЛЬНОЕ ОЧКО</string>
+      <string>ВО ВРЕМЯ ИСПЫТаНИЯ,</string>
+      <string>требующего в или.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>6</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\6\row-1-col-9.jpg</FileName>
+    <Lines>
+      <string>ЗАЩИТНЫЙ КОМПТПЕКТ</string>
+      <string>ОДЕЖДА</string>
+      <string>Дает дополнительное очко</string>
+      <string>во время испытания,</string>
+      <string>требующего @.</string>
+      <string>Каждый раз, когда на вас</string>
+      <string>действует радиация, вы</string>
+      <string>получаете на 1 очко</string>
+      <string>радиации меньше.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>6</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\6\row-2-col-1.jpg</FileName>
+    <Lines>
+      <string>Дает дополнительное очко</string>
+      <string>во время испытания,</string>
+      <string>требующего.</string>
+      <string>Медпрепараты НЕ ЗЭНИМЭЮТ</string>
+      <string>МЕСТЭ В вашем инвентаре.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>6</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\6\row-2-col-7.jpg</FileName>
+    <Lines>
+      <string>ПОТРОШИТЕЛЬ</string>
+      <string>ОРУЖИЕ</string>
+      <string>Если выпал результат "2.5,</string>
+      <string>можете пожертвовать одним</string>
+      <string>перебросом кубиков, чтобы</string>
+      <string>изменить значение кубика с</string>
+      <string>этим результатом.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>8</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\8\row-2-col-4.jpg</FileName>
+    <Lines>
+      <string>ПЛАЗМЕННЫЙ ПИСТОЛЕТ</string>
+      <string>ОРУЖИЕ</string>
+      <string>Игнорирует символ ‘ у</string>
+      <string>врагов —добыча за такого</string>
+      <string>врага не берется.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\none\row-1-col-2.jpg</FileName>
+    <Lines>
+      <string>КЭЙТ</string>
+      <string>НАПАРНИК</string>
+      <string>Можно израсходовать во</string>
+      <string>время испытания,</string>
+      <string>требующегов , в или в,</string>
+      <string>чтобы получить</string>
+      <string>дополнительное очко.</string>
+      <string>Если у вас есть любой</string>
+      <string>медпрепарит, напарник не</string>
+      <string>уходит, когда карточка</string>
+      <string>восстанавливается.</string>
+  
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\none\row-1-col-4.jpg</FileName>
+    <Lines>
+      <string>Можно израсходовать,</string>
+      <string>чтобы восстановить 5 очков</string>
+      <string>здоровья.</string>
+      <string>Если у вас 10 очков здоровья</string>
+      <string>или меньше, напарник не</string>
+      <string>уходит, когда карточка</string>
+      <string>восстанавливается.</string>
+   
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\none\row-1-col-5.jpg</FileName>
+    <Lines>
+      <string>ПАЛАДИН</string>
+      <string>НАПАРНИК</string>
+    
+      <string>Можно израсходовать, чтобы</string>
+      <string>выбрать другого игрока,</string>
+      <string>находящегося в пределах 2—х</string>
+      <string>секций‚ Передвиньте его на 1</string>
+      <string>секцию в любом направлении.</string>
+      <string>Затем, если вы «Добрый»,</string>
+      <string>потеряйте это свойство.</string>
+      <string>Если вы «Добрый», напарник</string>
+      <string>не уходит, когда карточка</string>
+      <string>восстанавливается.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\none\row-2-col-2.jpg</FileName>
+    <Lines>
+      <string>ГРУЗОПОДЪЁМНИК</string>
+      <string>НАПАРНК</string>
+      <string>Можно израсходовать во время</string>
+      <string>испытания или боя, требующегов</string>
+      <string>чтобы получить дополнительное</string>
+      <string>очко.</string>
+      <string>Пока он находится в слоте</string>
+      <string>` напарника, можете носить в</string>
+      <string>инвентаре на 2 карты больше.</string>
+      <string>Если у вас 5 и более предметов</string>
+      <string>в инвентаре, напарник не</string>
+      <string>уходит, когда карточка</string>
+      <string>восстанавливается.</string>
+     
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\none\row-2-col-3.jpg</FileName>
+    <Lines>
+      <string>МАККРИДИ</string>
+      <string>НАПАРН И К</string>
+      <string>Можно израсходовать, когда</string>
+      <string>вы в магазине, чтобы купить „</string>
+      <string>предмет из сброса колоды 000 =</string>
+      <string>Если у вас 8 или более</string>
+      <string>- крышек, напарник не</string>
+      <string>уходит, когда карточка</string>
+      <string>восстанавливается.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\none\row-2-col-5.jpg</FileName>
+    <Lines>
+      <string>ПРОТЕКТРОН</string>
+      <string>НАПАРНИК</string>
+      <string>Можно израсходовать</string>
+      <string>перед боем, чтобы на время</string>
+      <string>боя увеличить на 2 вашу '</string>
+      <string>Если в соседней секции</string>
+      <string>есть враг, напарник не</string>
+      <string>уходит, когда карточка</string>
+      <string>восстанавливается.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\prostie\none\row-2-col-6.jpg</FileName>
+    <Lines>
+      <string>НИК ВАЛЕНТАЙН</string>
+      <string>НАПАРНИК</string>
+    
+      <string>Можно израсходовать, чтобы</string>
+      <string>, выбрать врага, находящегося</string>
+      <string>в пределах 2—х секций.</string>
+      <string>Передвиньте его на 1 секцию</string>
+      <string>в любом направлении.</string>
+  
+      <string>Если на карте нет врагов 3-го</string>
+      <string>уровня, напарник не уходит,</string>
+      <string>когда карточка</string>
+      <string>восстанавливается.</string>
+    </Lines>
+    <Class>simple</Class>
+  </Card>
+</ArrayOfCard>

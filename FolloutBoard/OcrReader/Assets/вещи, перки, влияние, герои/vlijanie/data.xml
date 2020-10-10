@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-1-col-10.jpg</FileName>
+    <Lines>
+      <string>БЕЗОПАСНОСTЬ ‘</string>
+   
+      <string>За каждую секцию, на</string>
+      <string>+ которую' продвину-</string>
+      <string>лась дальше, чем * .</string>
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность '</string>
+      <string>к вам.</string>
+     
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-1-col-2.jpg</FileName>
+    <Lines>
+      <string>ИССЛЕДОВАТЕПЬ :</string>
+      <string>+ Если не открыта только</string>
+      <string>одна плитка локаций.</string>
+      <string>ЕСЛ И откр ЫТЫ все</string>
+      <string> ПЛИТКИ.</string>
+   
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-1-col-3.jpg</FileName>
+    <Lines>
+      <string>Если у вас есть 3 или</string>
+      <string>более медпрепаратов.</string>
+      <string>Если плюс к этому</string>
+      <string>вы «отдохнувший».</string>
+    
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-1-col-4.jpg</FileName>
+    <Lines>
+      <string>ИЗБРАННЫЙ ‚</string>
+     
+      <string>+ Если у вас есть ровно</string>
+      <string>6 жетонов $.Р.Е.С.|.А.|..</string>
+      <string>Если у вас есть все 7</string>
+      <string>+@@ жетонов $.Р.Е.С.|.А.|..</string>
+    
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-2-col-1.jpg</FileName>
+    <Lines>
+     
+      <string>За каждую секцию, на</string>
+      <string>+ которую. продвину-</string>
+      <string>лась дальше, чем * .</string>
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность '</string>
+      <string>к вам.</string>
+     
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-2-col-10.jpg</FileName>
+    <Lines>
+     
+      <string>За каждую секцию, на</string>
+      <string>+ которую. продвину—</string>
+      <string>лась дальше, чем * .</string>
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность '</string>
+      <string>к вам.</string>
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-2-col-3.jpg</FileName>
+    <Lines>
+      <string>За каждую секцию, на</string>
+      <string>+ которую* продвину—</string>
+      <string>лась дальше, чем ' .</string>
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность</string>
+      <string>к вам.</string>
+    
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-2-col-5.jpg</FileName>
+    <Lines>
+      <string>За каждую секцию, на</string>
+      <string>+ которую* продвину-</string>
+      <string>лась дальше, чем ' .</string>
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность</string>
+      <string>к вам.</string>
+   
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-2-col-7.jpg</FileName>
+    <Lines>
+      <string>За каждую секцию, на</string>
+      <string>+ которую* продвину-</string>
+      <string>лась дальше, чем ' .</string>
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность</string>
+      <string>к вам.</string>
+    
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-2-col-9.jpg</FileName>
+    <Lines>
+      <string>SVOBODA</string>
+      <string>За каждую секцию, на</string>
+      <string>+ которую* продвину-</string>
+      <string>лась дальше, чем ' .</string>
+    
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность</string>
+      <string>к вам.</string>
+   
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>1</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\1\row-3-col-1.jpg</FileName>
+    <Lines>
+
+      <string>BEZAPASNOST</string>
+      <string>За каждую секцию, на</string>
+      <string>+ которую. продвину-</string>
+      <string>лась дальше, чем * .</string>
+  
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность '</string>
+      <string>к вам.</string>
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\2\row-1-col-1.jpg</FileName>
+    <Lines>
+      <string>НЕПРИКАСАЕМЫЙ '</string>
+      <string>+@ Если ' надетой на</string>
+      <string>вас одежды равно 2.</string>
+      <string>Если ' надетой на вас</string>
+      <string>одежды 3 или больше.</string>
+      <string>+@@</string>
+  
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\2\row-1-col-5.jpg</FileName>
+    <Lines>
+      <string>KAPITALIST</string>
+      <string>+ Если у вас есть</string>
+      <string>10-15 крышек.</string>
+      <string>Если у вас есть 16</string>
+      <string>+@@ и более крышек.</string>
+      
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\2\row-2-col-4.jpg</FileName>
+    <Lines>
+      <string>BEZAPASNOST</string>
+      <string>За каждую секцию, на</string>
+      <string>+ которую. продвину-</string>
+      <string>лась дальше, чем * .</string>
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность '</string>
+      <string>к вам.</string>
+    
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\2\row-3-col-3.jpg</FileName>
+    <Lines>
+      <string>SVOBODA</string>
+      <string>За каждую секцию, на</string>
+      <string>+ которую* продвину-</string>
+      <string>лась дальше, чем ' .</string>
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность</string>
+      <string>к вам.</string>
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\3\row-1-col-8.jpg</FileName>
+    <Lines>
+      <string>BEZOPASNOST</string>
+      <string>За каждую секцию, на</string>
+      <string>+ которую' продвину-</string>
+      <string>лась дальше, чем * .</string>
+  
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность '</string>
+      <string>к вам.</string>
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\3\row-2-col-6.jpg</FileName>
+    <Lines>
+      <string>  SVOBODA</string>
+    
+      <string>За каждую секцию, на</string>
+      <string>+ которую* продвину-</string>
+      <string>лась дальше, чем ' .</string>
+     
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность</string>
+      <string>к вам.</string>
+     
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\3\row-3-col-2.jpg</FileName>
+    <Lines>
+      <string> BEZOPASNOST</string>
+
+      <string>За каждую секцию, на</string>
+      <string>+ которую' продвину-</string>
+      <string>лась дальше, чем * .</string>
+      <string>     </string>
+      <string>     </string>
+      <string>В начале вашего хода ВЫ</string>
+      <string>МОЖЕТЕ ВЫЛОЖИТЬ ЭТУ карточку,</string>
+      <string>чтобы объявить лояльность .</string>
+      <string>к вам.</string>
+      <string> </string>
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\4\row-1-col-6.jpg</FileName>
+    <Lines>
+      <string> KOMPANEEC</string>
+      <string>+@ Если вы «злой».</string>
+      <string>+ Если у вас есть 3 или</string>
+      <string>более напарников.</string>
+     
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\4\row-1-col-7.jpg</FileName>
+    <Lines>
+      <string>КУКЛОВОД </string>
+      <string>Если у вас есть как</string>
+      <string>+ минимум 1*и 1 .</string>
+      <string>карточки ВЛИЯНИЯ.</string>
+      <string>+ Если другой выживший</string>
+      <string>побеждает в игре.</string>
+    
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\4\row-1-col-9.jpg</FileName>
+    <Lines>
+      <string>BEZOPSNOST</string>
+    
+      <string>За каждую секцию, на</string>
+      <string>+ которую' продвину-</string>
+      <string>лась дальше, чем * .</string>
+     
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность '</string>
+      <string>к вам.</string>
+     
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\vlijanie\4\row-2-col-2.jpg</FileName>
+    <Lines>
+      <string> SVOBODA </string>
+      
+      <string>За каждую секцию, на</string>
+      <string>+ которую* продвину-</string>
+      <string>лась дальше, чем ' .</string>
+     
+      <string>В начале вашего хода вы</string>
+      <string>можете выложить эту карточку,</string>
+      <string>чтобы объявить лояльность</string>
+      <string>к вам.</string>
+    </Lines>
+    <Class>influence</Class>
+  </Card>
+</ArrayOfCard>

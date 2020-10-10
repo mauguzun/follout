@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\survivers\4\row-1-col-4.jpg</FileName>
+    <Lines>
+      <string>КОСТЮМ УБЕЖИ ЩА</string>
+      <string>ОДЕЖДА</string>
+      <string>Во время испытания можете</string>
+      <string>перебросить кубики, если у</string>
+      <string>вас есть жетон []</string>
+      <string>Можете носить этот костюм</string>
+      <string>одновременно с любой</string>
+      <string>другой одеждой. Значения</string>
+      <string>брони при этом суммируется.</string>
+
+    </Lines>
+    <Class>survivers</Class>
+  </Card>
+  <Card>
+    <Score>5</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\survivers\5\row-1-col-5.jpg</FileName>
+    <Lines>
+      <string>РЖАВАЯ ТРУБА</string>
+      <string>ОРУЖИЕ</string>
+      <string>Можете израсходовать</string>
+      <string>карточку во время боя,</string>
+      <string>чтобы перебросить кубики</string>
+      <string>один дополнительный раз.</string>
+    </Lines>
+    <Class>survivers</Class>
+  </Card>
+  <Card>
+    <Score>6</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\survivers\6\row-1-col-1 (1).jpg</FileName>
+    <Lines>
+      <string>СИЛОВАЯ БРОНЯ t-54</string>
+      <string>ОДЕЖДА</string>
+      <string> Когда вы выполняете</string>
+      <string>Ё действие «Движение», у</string>
+      <string>вас есть только одно очко</string>
+      <string>движения.</string>
+      <string>Во время хода можете</string>
+      <string>заплатить 1 крышку, чтобы</string>
+      <string> снять этот штраф до конца</string>
+      <string> хода.</string>
+    
+    </Lines>
+    <Class>survivers</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\survivers\none\row-1-col-2.jpg</FileName>
+    <Lines>
+      <string>В начале игры приобретаете</string>
+      <string> свойство «злой».</string>
+      <string>От этой карточки нельзя</string>
+      <string>избавиться.</string>
+      <string>Ваше максимальное здоровье</string>
+      <string>равно 12. Вместо получения</string>
+      <string>очков радиации вы</string>
+      <string>восстанавливаете здоровье на</string>
+      <string>такое же количество очков.</string>
+    </Lines>
+    <Class>survivers</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\survivers\none\row-1-col-3.jpg</FileName>
+    <Lines>
+      <string>СУПЕРМУТАНТ</string>
+      <string>В начале игры приобретаете</string>
+      <string>свойство «супермутант».</string>
+      <string>От этой карточки нельзя</string>
+      <string>избавиться.</string>
+      <string>За каждое полученное очко</string>
+      <string>радиации получаете по</string>
+      <string>‘ одному очку опыта.</string>
+    </Lines>
+    <Class>survivers</Class>
+  </Card>
+</ArrayOfCard>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-1-col-1.jpg</FileName>
+    <Lines>
+      <string>КРУТЫЕ ИСТОРИИ</string>
+      <string>ЖУРНАЛ</string>
+      <string>Если у вас нет жетона </string>
+      <string>можете сбросить эту карточку</string>
+      <string>во время действия «ОТДЫХ»,</string>
+      <string>чтобы получить 2 очка опыта,</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-1-col-10.jpg</FileName>
+    <Lines>
+      <string> </string>
+      <string>ГРОГНАК ВАРВАР</string>
+      <string>ЖУРНАЛ</string>
+      <string>Если у вас нет жетонав ,</string>
+      <string>" можете сбросить эту карточку</string>
+      <string> во время действия «Отдых»,</string>
+      <string>чтобы получить 2 очка опыта.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-1-col-7.jpg</FileName>
+    <Lines>
+      <string>ТАЙНЫЕ ОПЕРАЦИЙ США</string>
+      <string>ЖУРНАЛ</string>
+      <string>Если у вас нет жетона в , `</string>
+      <string>можете сбросить эту карточку</string>
+      <string>во время действия «ОТДЫХ»,</string>
+      <string>чтобы получить 2 очка опыта,</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-2-col-1.jpg</FileName>
+    <Lines>
+      <string> ПИСТОЛЕТЫ И ПУЛИ</string>
+      <string>ЖУРНАЛ</string>
+      <string> Если у вас нет жетона</string>
+      <string> можете сбросить эту карточку</string>
+      <string>во время действия «Отдых»,</string>
+      <string>чтобы получить 2 очка опыта.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-2-col-3.jpg</FileName>
+    <Lines>
+      <string>НЕСОКРУШИМЫЕ</string>
+      <string>ЖУРНАЛ</string>
+      <string>Если у вас нет жетона @,</string>
+      <string>можете сбросить эту карточку</string>
+      <string>во время действмя «ОТДЫХ»,</string>
+      <string>чтобы получить 2 очка опыта.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-2-col-6.jpg</FileName>
+    <Lines>
+      <string>ЖИТЬ И ЛЮБИТЬ</string>
+      <string>ЖУРНАЛ</string>
+      <string>1 Если у вас нет жетона ,</string>
+      <string> можете сбросить эту карточку</string>
+      <string>во время действия «Отдых»,</string>
+      <string>чтобы получить 2 очка опыта.</string>
+      <string> </string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-3-col-10.jpg</FileName>
+    <Lines>
+      <string>ХЛАМ</string>
+      <string>помощь</string>
+      <string>сбросить эту и еще одну</string>
+      <string>карточку хлама, чтобы взять</string>
+      <string>одну карточку из магазина или ?</string>
+      <string>из сброса. или из сброса до. ‹</string>
+      <string>Во время своего хода можете ‘</string>
+   
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-3-col-4.jpg</FileName>
+    <Lines>
+      <string>НАУКА ТЕСЛЫЙ</string>
+      <string>ЖУРНАЛ</string>
+      <string>Если у вас нет жетона ,</string>
+      <string>можете сбросить эту карточку</string>
+      <string>во время действтч «Отдых»,</string>
+      <string>чтобы получить 2 очка опыта.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-3-col-9.jpg</FileName>
+    <Lines>
+    
+      <string>ХЛАМ</string>
+      <string>помощь</string>
+      <string>Во время своего хода можете</string>
+      <string>сбросить эту и еще одну</string>
+      <string>карточку хлама, чтобы взять</string>
+      <string> одну карточку из магазина или</string>
+      <string>из сброса . или из сброса </string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-4-col-1.jpg</FileName>
+    <Lines>
+    
+      <string>ХЛАМ</string>
+      <string>помощь</string>
+      <string>Во время своего хода можете</string>
+      <string>сбросить эту и еще одну</string>
+      <string>карточку хлама, чтобы взять</string>
+      <string>одну карточку из магазина или</string>
+      <string>из сброса . или из сброса 90-</string>
+    
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>2</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\2\row-4-col-2.jpg</FileName>
+    <Lines>
+      <string>ХЛАМ</string>
+      <string>помощь</string>
+     
+      <string>Во время своего хода можете</string>
+      <string>сбросить эту и еще одну</string>
+      <string>карточку хлама, чтобы взять</string>
+      <string>одну карточку из магазина или</string>
+      <string>из сброса . или из сброса 90°.</string>
+    
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-1-col-2.jpg</FileName>
+    <Lines>
+      <string>Мясо БРАМИНА</string>
+      <string>помощь</string>
+      <string>Можете сбросить эту</string>
+      <string>карточку во время действия</string>
+      <string>«Отдых», чтобы восстановить</string>
+      <string>8 очков здоровья. Затем</string>
+      <string>получ ите 1 оч ко радиации.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-1-col-3.jpg</FileName>
+    <Lines>
+      <string>БАФФАУT</string>
+      <string>МЕДПРЕПАРАТ</string>
+      <string>Можно израсходовать во время</string>
+      <string>испытания или боя,</string>
+      <string>требующего @ или в , чтобы</string>
+      <string>получить дополнительное очко.</string>
+      <string>Затем пройдите испытание:БЗ.</string>
+      <string>Если проваливаете, получаете</string>
+      <string>›свойство «зависимый». Пока у</string>
+      <string>вас зависимость, нельзя скинуть</string>
+      <string>зту карточку.</string>
+      <string>Чтобы восстановить карточку,</string>
+      <string>заплатите 1 крышку.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-1-col-4.jpg</FileName>
+    <Lines>
+      <string>Успокоин</string>
+      <string>МЕДПРЕПАРАТ</string>
+      <string>Можно израсходовать во время</string>
+      <string>испытания или боя,</string>
+      <string>требующегош или Ш ‚ чтобы</string>
+      <string>получить дополнительное очко.</string>
+      <string>Затем пройдите испытание'вз.</string>
+      <string>Если проваливаете, получаете</string>
+      <string>свойство «зависимый». Пока у</string>
+      <string>вас зависимость, нельзя скинуть</string>
+      <string>зту карточку.</string>
+      <string>Чтобы восстановить карточку,</string>
+      <string>заплатите 1 крышку.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-1-col-5 (1).jpg</FileName>
+    <Lines>
+      <string>РЖАВАЯ ТРУБА</string>
+      <string>ОРУЖИЕ</string>
+      <string>Во время боя: если выпал</string>
+      <string>результат,сбросьте эту</string>
+      <string>карточку.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-1-col-8.jpg</FileName>
+    <Lines>
+      <string>ГПЮКОНАВТ</string>
+      <string>МЕДПРЕПАРАТ</string>
+      <string>Можно израсходовать во время</string>
+      <string>испытания или боя,</string>
+      <string>требующего. илип, чтобы</string>
+      <string>получить дополнительное очко.</string>
+      <string>Затем пройдите испытание:ВЗ.</string>
+      <string>Если проваливаете, получаете</string>
+      <string>свойство «зависимый». Пока у</string>
+      <string>вас зависимость, нельзя скинуть</string>
+      <string>зту карточку.</string>
+      <string>Чтобы восстановить карточку,</string>
+      <string>заплатите 1 крышку.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-2-col-4.jpg</FileName>
+    <Lines>
+      <string>ВОВВОЙ НОЖ</string>
+      <string>ОРУЖИЕ</string>
+      <string>Во время боя за каждый</string>
+      <string>результат =Ёвы получаете одно</string>
+      <string>оч ко урона.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-2-col-7.jpg</FileName>
+    <Lines>
+      <string>МЕНТАТЫ </string>
+      <string>МЕДПРЕПАРАТ</string>
+      <string>Можно израсходовать во время</string>
+      <string>испытания или боя,</string>
+      <string>требующего в или “ , чтобы</string>
+      <string>получить дополнительное очко.</string>
+      <string>Затем пройдите испытание:ЕЗ.</string>
+      <string>Если проваливаете, получаете</string>
+      <string>свойство «зависимый». Пока у</string>
+      <string>вас зависимость, нельзя скинуть</string>
+      <string>зту карточку.</string>
+      <string>Чтобы восстановить карточку,</string>
+      <string>заплатите 1 крышку.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-3-col-2.jpg</FileName>
+    <Lines>
+      <string>ПСИХО</string>
+      <string>МЕДПРЕПАРАТ</string>
+      <string>Можно израсходовать во время</string>
+      <string>боя, чтобы восстановить 1 очко</string>
+      <string>здоровья и дополнительно</string>
+      <string>перебросить кубики.</string>
+      <string>Затем пройдите испытание:</string>
+      <string>Если проваливаете, получаете</string>
+      <string>свойство «зависимый». Пока у</string>
+      <string>вас зависимость, нельзя скинуть</string>
+      <string>зту карточку.</string>
+      <string>Чтобы восстановить карточку,</string>
+      <string>заплатите 1 крышку.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-3-col-3.jpg</FileName>
+    <Lines>
+      <string>РЕЙДЕРСКАЯ БРЁНЯ</string>
+      <string>ОДЕЖДА</string>
+    
+      <string> Во время боя с врагом, у</string>
+      <string>которого есть, броня '</string>
+      <string>равна 1.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-4-col-3.jpg</FileName>
+    <Lines>
+    
+      <string>ВОДА</string>
+      <string>помощь</string>
+     
+      <string>Во время своего хода можете</string>
+      <string>скинуть эту карточку, чтобы '</string>
+      <string>восстановить 5 оч ков</string>
+      <string>здоровья. Затем получите 1</string>
+      <string>очко радиации.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>3</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\3\row-4-col-4.jpg</FileName>
+    <Lines>
+      <string>ВОДА</string>
+      <string>ПОМОЩЬ</string>
+    
+      <string>ВО время СВОЭГО хода можете</string>
+      <string>скинуть эту карточку, чтобы</string>
+      <string>восстановить 5 очков</string>
+      <string>здоровья. Затем получите 1</string>
+      <string>очко радиации.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\4\row-2-col-10.jpg</FileName>
+    <Lines>
+      <string>ГПАДКОСТВОП</string>
+      <string>ОРУЖИЕ</string>
+     
+    
+      <string>Перед боем можете потратить.</string>
+      <string>одну крышку. В противном</string>
+      <string>случае во время этого боя</string>
+      <string>нельзя перебрасывать кубики.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\4\row-2-col-5.jpg</FileName>
+    <Lines>
+      <string>ЛАЗЕРНАЯ ВИНТОВКА</string>
+      <string>ОРУЖИЕ</string>
+      <string>Во время боя за каждое .,</string>
+      <string>отнимающее очки здоровья,</string>
+      <string>можете потратить по одной</string>
+      <string>крышке. В противном случае</string>
+      <string>сбросьте эту карточку.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>4</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\4\row-2-col-8.jpg</FileName>
+    <Lines>
+      <string>МЕТАЛЛИЧЕСКАЯ Броня</string>
+      <string>ОДЕЖДА</string>
+      <string>Жетоны и В не дают</string>
+      <string>возможность перебросить</string>
+      <string>кубики.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\none\row-1-col-6.jpg</FileName>
+    <Lines>
+      <string>КОДСВОРТ</string>
+      <string>НАПАРНИК</string>
+      <string>МОЖНО ИЗРЭСХОДОВЗТЬ, ЧТОБЫ</string>
+      <string>ПОТОРГОВЭТЬСЯ С ЛЮбЫМ</string>
+      <string>ВЫЖИВШИМ на карте.</string>
+      <string>Если вы не «злой», напарник</string>
+      <string>_ не уходит, когда карточка</string>
+      <string>восстанавливается.</string>
+   
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\none\row-1-col-9.jpg</FileName>
+    <Lines>
+      <string>РОВБГАЛАЗ</string>
+      <string>НАПАРНИК</string>
+      <string>Можно израсходовать во время</string>
+      <string>своего хода. до конца хода вы</string>
+      <string>можете выполнять действия</string>
+      <string>(кроме боя) в любой соседней</string>
+      <string>секции, как если бы находились</string>
+      <string>ЕСЛИ РЯДОМ С вами есть</string>
+      <string>закрытая ЛОКЭЦИЯ, напарник</string>
+      <string>не УХОДИТ, когда карточка</string>
+      <string>восстанавливается.</string>
+     
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\none\row-2-col-2.jpg</FileName>
+    <Lines>
+      <string>ХЭНКОК</string>
+      <string>НАПАРНИ К</string>
+      <string>Можно израсходовать, чтобы</string>
+      <string>передвинуть к себе любого</string>
+      <string>врага, находящегося в пределах</string>
+      <string>двух секций, и сразиться с ним.</string>
+      <string>Если этот враг не убит во время</string>
+      <string>боя, напарник сбрасывается.</string>
+      <string>Если у вас есть жетон |],</string>
+      <string>напарник не уходит, когда</string>
+      <string>карточка восстанавливается.</string>
+
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\none\row-2-col-9.jpg</FileName>
+    <Lines>
+      <string>ПАИПЕР</string>
+      <string>НАПАРНИК `</string>
+      <string>Можно израсходовать, чтобы</string>
+      <string>исследовать соседнюю плитку</string>
+      <string>локации.</string>
+      <string>Если вы «злой», напарник не</string>
+      <string>уходит, когда карточка</string>
+      <string>восстанавливается.</string>
+     
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\none\row-3-col-1.jpg</FileName>
+    <Lines>
+      <string>ПРЕСТОН ГАРВИ</string>
+      <string>НАПАРНИК</string>
+      <string>Можно израсходовать, чтобы</string>
+      <string>игнорировать особенности</string>
+      <string>локаций (трудно преодолимые</string>
+      <string>и радиоактивные секции) до</string>
+      <string>конца хода.</string>
+      <string>Если в игре нет колоды @</string>
+      <string>или @, напарник не уходит,</string>
+      <string>когда карточка</string>
+      <string>восстанавливается.</string>
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+  <Card>
+    <Score>none</Score>
+    <FileName>D:\repos\FolloutBoard\FolloutBoard\Assets\вещи, перки, влияние, герои\dobicha\none\row-3-col-5.jpg</FileName>
+    <Lines>
+      <string>ГОРСТЬ КРЫШЕК</string>
+      <string>СОБЫТИЕ</string>
+      <string> Сразу же скиньте эту карточку</string>
+      <string>и получите 3 крышки.</string>
+    
+    </Lines>
+    <Class>mining</Class>
+  </Card>
+
+</ArrayOfCard>
